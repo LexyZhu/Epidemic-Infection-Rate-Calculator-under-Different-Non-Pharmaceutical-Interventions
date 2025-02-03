@@ -42,6 +42,7 @@ I attached the simulation results of no interventions, N95 masks applied:
 <img width="390" alt="Screenshot 2025-02-03 at 15 52 22" src="https://github.com/user-attachments/assets/4e44fd27-b072-4307-a494-403aab9317e9" />
 
 Here we found, when ventilation and N95 masks are applied, the probability of getting infection is the lowest:
+
 <img width="638" alt="Screenshot 2025-02-03 at 15 54 51" src="https://github.com/user-attachments/assets/253ae06e-6ff5-467e-9b5c-ccf4c2d68beb" />
 
 
